@@ -3,6 +3,7 @@ from pathlib import Path
 import numpy as np
 import pprint
 import json
+import re
 
 class _Parser:
     def __init__(self, data_path: Path, name=""):
@@ -107,8 +108,24 @@ class IDSParser(_Parser):
                 f = [row[:-1].split('\t') for row in f]
 
             ids_dict = {}
-            # GTJKV_AXO
             for row in f:
                 _, u, *idses = row
-                if len(idses) > 1:
-                    print(idses)
+                group = "GTJKV"
+                group_pointer = "GTJKV"
+                group_idses = []
+                grouped_idses = {}
+                for ids in idses:
+                    ids, *custom_group = [x for x in re.split(r'(?:[\[\]])', ids) if x]
+                    if custom_group:
+                        group = custom_group
+                    if group_pointer != group:
+                        if group_idses:
+                            grouped_idses[group] = group_idses
+                            group_idses = []
+                        group_pointer = group
+                    else:
+                        group_idses.append(ids)
+
+    def group2binary(group):
+        group_spec = "GTJKVAXO"
+        return list(filter(lambda x: x in group_spec, group))
