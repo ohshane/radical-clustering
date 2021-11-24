@@ -107,8 +107,8 @@ class IDSParser(_Parser):
                 f = [row[:-1].split('\t') for row in f]
 
             ids_dict = {}
-            # GTJKV A X O
+            # GTJKV_AXO
             for row in f:
-                _, u, ids = row
-                ids_dict[hex(ord(u))] = ids
-
+                _, u, *idses = row
+                if len(idses) > 1:
+                    print(idses)
