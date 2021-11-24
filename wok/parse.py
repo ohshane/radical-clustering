@@ -116,22 +116,20 @@ class IDSParser(_Parser):
                 group_pointer = "GTJKV"
                 group_idses = []
                 grouped_idses = {}
-                for ids in idses:
+                for i, ids in enumerate(idses, start=1):
                     ids, *custom_group = [x for x in re.split(r'(?:[\[\]])', ids) if x]
                     if custom_group:
                         group = custom_group[0]
-                    if group_pointer != group:
-                        if group_idses:
-                            grouped_idses[group] = group_idses
-                            group_idses = []
+                    group_idses.append(ids)
+                    if group != group_pointer or len(idses) == i:
+                        grouped_idses[group] = group_idses
                         group_pointer = group
-                    else:
-                        group_idses.append(ids)
+                        group_idses = [ids]
 
                 ids_dict[hex(ord(u))] = grouped_idses
                 grouped_idses = {}
 
-            # print(ids_dict)
+            print(ids_dict)
 
     def group2score(group, log_scale=False):
         group_spec = "GTJKVAXO"
