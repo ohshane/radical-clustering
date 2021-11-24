@@ -1,6 +1,8 @@
 from collections import Counter
 from pathlib import Path
+from functools import reduce
 import numpy as np
+import math
 import pprint
 import json
 import re
@@ -117,7 +119,7 @@ class IDSParser(_Parser):
                 for ids in idses:
                     ids, *custom_group = [x for x in re.split(r'(?:[\[\]])', ids) if x]
                     if custom_group:
-                        group = custom_group
+                        group = custom_group[0]
                     if group_pointer != group:
                         if group_idses:
                             grouped_idses[group] = group_idses
@@ -126,6 +128,14 @@ class IDSParser(_Parser):
                     else:
                         group_idses.append(ids)
 
-    def group2binary(group):
+                ids_dict[hex(ord(u))] = grouped_idses
+                grouped_idses = {}
+
+            # print(ids_dict)
+
+    def group2score(group, log_scale=False):
         group_spec = "GTJKVAXO"
-        return list(filter(lambda x: x in group_spec, group))
+        score = int(reduce(lambda a, b: str(int(a))+str(int(b)), list(map(lambda x: x in group, group_spec))), base=2)
+        if log_scale:
+            score = math.log2(score + 1)
+        return score
