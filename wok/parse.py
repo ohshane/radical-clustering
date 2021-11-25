@@ -1,6 +1,8 @@
 from collections import Counter
 from pathlib import Path
 from functools import reduce
+from itertools import chain
+from tqdm import tqdm
 import numpy as np
 import math
 import pprint
@@ -71,7 +73,7 @@ class IDSParser(_Parser):
     def __init__(self, data_path=Path(__file__)/'data'):
         _Parser.__init__(self, data_path)
         if Path(self.data_path/'ids.tsv').exists() and Path(self.data_path/'ids.tsv').is_file():
-            self.file_path = self.data_path/'ids.tsv'
+            self.file_path = self.data_path/'ids_test.tsv'
         else:
             raise ValueError
 
@@ -90,20 +92,20 @@ class IDSParser(_Parser):
             self.nonatoms_decomposed_ids = self._pickle_path/'nonatoms_decomposed.pickle'
 
         else:
-            tokens = np.array([
-                ['U+2FF0', '⿰', '⿰'],
-                ['U+2FF1', '⿱', '⿱'],
-                ['U+2FF2', '⿲', '⿲'],
-                ['U+2FF3', '⿳', '⿳'],
-                ['U+2FF4', '⿴', '⿴'],
-                ['U+2FF5', '⿵', '⿵'],
-                ['U+2FF6', '⿶', '⿶'],
-                ['U+2FF7', '⿷', '⿷'],
-                ['U+2FF8', '⿸', '⿸'],
-                ['U+2FF9', '⿹', '⿹'],
-                ['U+2FFA', '⿺', '⿺'],
-                ['U+2FFB', '⿻', '⿻'],
-            ], dtype='object')
+            # tokens = np.array([
+            #     ['U+2FF0', '⿰', '⿰'],
+            #     ['U+2FF1', '⿱', '⿱'],
+            #     ['U+2FF2', '⿲', '⿲'],
+            #     ['U+2FF3', '⿳', '⿳'],
+            #     ['U+2FF4', '⿴', '⿴'],
+            #     ['U+2FF5', '⿵', '⿵'],
+            #     ['U+2FF6', '⿶', '⿶'],
+            #     ['U+2FF7', '⿷', '⿷'],
+            #     ['U+2FF8', '⿸', '⿸'],
+            #     ['U+2FF9', '⿹', '⿹'],
+            #     ['U+2FFA', '⿺', '⿺'],
+            #     ['U+2FFB', '⿻', '⿻'],
+            # ], dtype='object')
 
             with open(self.file_path, 'r') as f:
                 f = f.readlines()[2:]
@@ -129,7 +131,16 @@ class IDSParser(_Parser):
                 ids_dict[hex(ord(u))] = grouped_idses
                 grouped_idses = {}
 
-            print(ids_dict)
+            self.ids_dict = ids_dict
+            print('ids_dictionary created')
+
+            self.ids_score_dict = dict.fromkeys(self.ids_dict.keys(), None)
+            for c, d in self.ids_dict.items():
+                self.ids_score_dict[c] = {'ids':[], 'score':[]}
+                for group, idses in d.items():
+                    self.ids_score_dict[c]['ids'].extend(idses)
+                    self.ids_score_dict[c]['score'].extend([IDSParser.group2score(group)/len(idses)] * len(idses))
+            print(self.ids_score_dict)
 
     def group2score(group, log_scale=False):
         group_spec = "GTJKVAXO"
