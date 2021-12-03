@@ -1,0 +1,204 @@
+==============================================================================
+Reading Network   ---    Z:\home\shaneoh\workspace\radical-clustering\ids.net
+==============================================================================
+ Working...
+         409652 lines read.
+ Time spent:  0:00:00
+
+==============================================================================
+Weak Components
+==============================================================================
+ Working...
+ Number of components: 1
+ Size of the largest component: 88850 vertices (99.889%).
+ Time spent:  0:00:00
+
+==============================================================================
+Extracting Subnetwork according to Partition
+==============================================================================
+ Time spent:  0:00:00
+
+==============================================================================
+# Louvain Community Detection. Coarsening only.                              #
+==============================================================================
+ Network: 2. Extracting N1 according to C1 [1] (88850)
+ Number of Restarts:                              1
+ Maximum Number of Levels in each Iteration:     20
+ Maximum Number of Repetitions in each Level:    50
+ Resolution: 1.000000
+
+==============================================================================
+Level=1
+==============================================================================
+ Working...
+ Repetition 1 finished, Q=0.273467
+ Repetition 2 finished, Q=0.276441
+ Repetition 3 finished, Q=0.277164
+ Repetition 4 finished, Q=0.277371
+ Repetition 5 finished, Q=0.277408
+ Repetition 6 finished, Q=0.277439
+ Repetition 7 finished, Q=0.277439
+
+ Number of Clusters: 9072
+
+ Time spent:  0:00:00
+
+==============================================================================
+Shrinking
+==============================================================================
+ Working...
+ 100.00% shrinking lines finished.    Time spent: 0:00:00
+ 100.00% shrinking vertices finished. Time spent: 0:00:00
+ Time spent:  0:00:00
+
+==============================================================================
+Level=2
+==============================================================================
+ Working...
+ Repetition 1 finished, Q=0.339471
+ Repetition 2 finished, Q=0.352117
+ Repetition 3 finished, Q=0.353293
+ Repetition 4 finished, Q=0.353509
+ Repetition 5 finished, Q=0.353560
+ Repetition 6 finished, Q=0.353565
+ Repetition 7 finished, Q=0.353565
+ Repetition 8 finished, Q=0.353565
+
+ Number of Clusters: 416
+
+ Time spent:  0:00:00
+
+==============================================================================
+Shrinking
+==============================================================================
+ Working...
+ 100.00% shrinking lines finished.    Time spent: 0:00:00
+ 100.00% shrinking vertices finished. Time spent: 0:00:00
+ Time spent:  0:00:00
+
+==============================================================================
+Level=3
+==============================================================================
+ Working...
+ Repetition 1 finished, Q=0.357340
+ Repetition 2 finished, Q=0.357532
+ Repetition 3 finished, Q=0.357553
+ Repetition 4 finished, Q=0.357563
+ Repetition 5 finished, Q=0.357573
+ Repetition 6 finished, Q=0.357573
+ Repetition 7 finished, Q=0.357573
+ Repetition 8 finished, Q=0.357573
+ Repetition 9 finished, Q=0.357573
+ Repetition 10 finished, Q=0.357573
+ Repetition 11 finished, Q=0.357573
+ Repetition 12 finished, Q=0.357573
+ Repetition 13 finished, Q=0.357573
+ Repetition 14 finished, Q=0.357573
+ Repetition 15 finished, Q=0.357573
+ Repetition 16 finished, Q=0.357573
+ Repetition 17 finished, Q=0.357573
+ Repetition 18 finished, Q=0.357573
+ Repetition 19 finished, Q=0.357573
+ Repetition 20 finished, Q=0.357573
+ Repetition 21 finished, Q=0.357573
+ Repetition 22 finished, Q=0.357573
+ Repetition 23 finished, Q=0.357573
+ Repetition 24 finished, Q=0.357573
+ Repetition 25 finished, Q=0.357573
+ Repetition 26 finished, Q=0.357573
+ Repetition 27 finished, Q=0.357573
+ Repetition 28 finished, Q=0.357573
+ Repetition 29 finished, Q=0.357573
+ Repetition 30 finished, Q=0.357573
+ Repetition 31 finished, Q=0.357573
+ Repetition 32 finished, Q=0.357573
+ Repetition 33 finished, Q=0.357573
+ Repetition 34 finished, Q=0.357573
+ Repetition 35 finished, Q=0.357573
+ Repetition 36 finished, Q=0.357573
+ Repetition 37 finished, Q=0.357573
+ Repetition 38 finished, Q=0.357573
+ Repetition 39 finished, Q=0.357573
+ Repetition 40 finished, Q=0.357573
+ Repetition 41 finished, Q=0.357573
+ Repetition 42 finished, Q=0.357573
+ Repetition 43 finished, Q=0.357573
+ Repetition 44 finished, Q=0.357573
+ Repetition 45 finished, Q=0.357573
+ Repetition 46 finished, Q=0.357573
+ Repetition 47 finished, Q=0.357573
+ Repetition 48 finished, Q=0.357573
+ Repetition 49 finished, Q=0.357573
+ Repetition 50 finished, Q=0.357573
+
+ Number of Clusters: 84
+
+ Time spent:  0:00:00
+
+==============================================================================
+Shrinking
+==============================================================================
+ Working...
+ 100.00% shrinking lines finished.    Time spent: 0:00:00
+ 100.00% shrinking vertices finished. Time spent: 0:00:00
+ Time spent:  0:00:00
+
+==============================================================================
+Level=4
+==============================================================================
+ Working...
+ Repetition 1 finished, Q=0.357598
+ Repetition 2 finished, Q=0.357598
+
+ Number of Clusters: 74
+
+ Time spent:  0:00:00
+
+==============================================================================
+Shrinking
+==============================================================================
+ Working...
+ 100.00% shrinking lines finished.    Time spent: 0:00:00
+ 100.00% shrinking vertices finished. Time spent: 0:00:00
+ Time spent:  0:00:00
+
+==============================================================================
+Level=5
+==============================================================================
+ Working...
+ Repetition 1 finished, Q=0.357598
+
+ Number of Clusters: 74
+
+ Time spent:  0:00:00
+
+==============================================================================
+ Single Refinement on the Original Network.
+==============================================================================
+
+==============================================================================
+Level=5
+==============================================================================
+ Working...
+ Repetition 1 finished, Q=0.396427
+ Repetition 2 finished, Q=0.397026
+ Repetition 3 finished, Q=0.397107
+ Repetition 4 finished, Q=0.397108
+ Repetition 5 finished, Q=0.397110
+ Repetition 6 finished, Q=0.397110
+ Repetition 7 finished, Q=0.397110
+
+ Number of Clusters: 74
+
+ Time spent:  0:00:00
+
+==============================================================================
+ Final partition after additional refinement
+==============================================================================
+ Number of Clusters: 75
+ Modularity: 0.397111
+
+ Maximum Number of Levels in each Iteration reached:     5
+ Maximum Number of Repetitions in each Level reached:   50
+
+ 

@@ -73,7 +73,7 @@ class IDSParser(_Parser):
     def __init__(self, data_path=Path(__file__)/'data'):
         _Parser.__init__(self, data_path)
         if Path(self.data_path/'ids.tsv').exists() and Path(self.data_path/'ids.tsv').is_file():
-            self.file_path = self.data_path/'ids_test.tsv'
+            self.file_path = self.data_path/'ids.tsv'
         else:
             raise ValueError
 
@@ -106,6 +106,9 @@ class IDSParser(_Parser):
             #     ['U+2FFA', '⿺', '⿺'],
             #     ['U+2FFB', '⿻', '⿻'],
             # ], dtype='object')
+            # 
+            # 
+            # "⿰⿱⿲⿳⿴⿵⿶⿷⿸⿹⿺⿻"
 
             with open(self.file_path, 'r') as f:
                 f = f.readlines()[2:]
@@ -128,7 +131,7 @@ class IDSParser(_Parser):
                         group_pointer = group
                         group_idses = [ids]
 
-                ids_dict[hex(ord(u))] = grouped_idses
+                ids_dict[u] = grouped_idses
                 grouped_idses = {}
 
             self.ids_dict = ids_dict
@@ -140,10 +143,20 @@ class IDSParser(_Parser):
                 for group, idses in d.items():
                     self.ids_score_dict[c]['ids'].extend(idses)
                     self.ids_score_dict[c]['score'].extend([IDSParser.group2score(group)/len(idses)] * len(idses))
-            print(self.ids_score_dict)
+            print('ids_score_dictionary created')
+
+            # self.atom_ids_dict = {}
+
+            # tokens = set("⿰⿱⿲⿳⿴⿵⿶⿷⿸⿹⿺⿻")
+            # for c, d in self.ids_score_dict.items():
+            #     for ids in d['ids']:
+            #         if not len(set(ids) & tokens):
+            #             self.atom_ids_dict[c] = "" #TODO:ratio
+
+            # print(self.ids_score_dict)
 
     def group2score(group, log_scale=False):
-        group_spec = "GTJKVAXO"
+        group_spec = "UGHTJKVAXO"
         score = int(reduce(lambda a, b: str(int(a))+str(int(b)), list(map(lambda x: x in group, group_spec))), base=2)
         if log_scale:
             score = math.log2(score + 1)

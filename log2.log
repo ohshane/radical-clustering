@@ -1,0 +1,29 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+
+% Reading Network   ---    Z:\home\shaneoh\workspace\radical-clustering\ids.net
+N 1 RDN "Z:\home\shaneoh\workspace\radical-clustering\ids.net" (88949)
+% Weak Components
+C 1 COMP 1 [2] [2] (88949)
+% Extracting Subnetwork according to Partition
+N 2 EXT 1 1 [1] 1 (88850)
+% # Louvain Community Detection. Coarsening only.                              #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+% Shrinking
+% Level=4
+% Shrinking
+% Level=5
+%  Single Refinement on the Original Network.
+% Level=5
+%  Final partition after additional refinement
+C 3 MODULARITY 2 20 50 1 1.0000000000 0.500000 (88850)
+% Saving partition to file   ---    Z:\home\shaneoh\workspace\radical-clustering\louvain_communities.clu
+C 3 WC "Z:\home\shaneoh\workspace\radical-clustering\louvain_communities.clu" (88850)
