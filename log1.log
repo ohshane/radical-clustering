@@ -5,3 +5,278 @@ CLSBEGIN 1
 HIEBEGIN 1
 VECBEGIN 1
 
+% Reading Network   ---    Z:\home\shane\workspace\radical-clustering\ids_giant.net
+N 1 RDN "Z:\home\shane\workspace\radical-clustering\ids_giant.net" (88850)
+% Reading Partition   ---    Z:\home\shane\workspace\radical-clustering\ids_giant_louvain.clu
+C 1 RDC "Z:\home\shane\workspace\radical-clustering\ids_giant_louvain.clu" (88850)
+% Shrinking
+N 2 SHR 1 1 [1 ,0,1] (77)
+E 2 CIRCULAR
+E 2 DRAW 2 0 0 0 0
+E 2 KAMADACOMP
+E 2 KAMADACOMP
+E 2 KAMADACOMP
+E 2 KAMADACOMP
+E 2 KAMADACOMP
+E 2 KAMADACOMP
+E 2 KAMADACOMP
+E 2 SVG 2 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\shrinked.svg" 1 0
+% # VOS Clustering. Coarsening only.                                           #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+% Shrinking
+% Level=4
+% Shrinking
+% Level=5
+%  Single Refinement on the Original Network.
+% Level=5
+%  Final partition after additional refinement
+C 3 VOSSINGLE 1 20 50 1 1.0000000000 (88850)
+E 1 CIRCULAR
+E 1 DRAW 3 0 0 0 0
+% # VOS Clustering. Coarsening only.                                           #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+% Shrinking
+% Level=4
+% Shrinking
+% Level=5
+%  Single Refinement on the Original Network.
+% Level=5
+%  Final partition after additional refinement
+C 4 VOSSINGLE 1 20 50 1 1.0000000000 (88850)
+% Saving partition to file   ---    Z:\home\shane\workspace\radical-clustering\ids_giant_vos.clu
+C 4 WC "Z:\home\shane\workspace\radical-clustering\ids_giant_vos.clu" (88850)
+% Shrinking
+N 3 SHR 1 4 [1 ,0,1] (1301)
+E 3 DRAW 5 0 0 0 0
+E 3 KAMADACOMP
+E 3 DRAW 5 0 0 0 0
+E 3 KAMADACOMP
+E 3 SVG 5 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\shrinked_vos.svg" 1 0
+% Extracting Subnetwork according to Partition
+N 4 EXT 1 1 [75,49,76,68,51] 1 (400)
+E 4 DRAW 6 0 0 0 0
+E 4 KAMADACOMP
+E 4 DRAW 6 0 0 0 0
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 CIRCULAR
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 KAMADACOMP
+E 4 SVG 6 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\top_5_small.svg" 1 0
+% # Louvain Community Detection. Coarsening only.                              #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+%  Single Refinement on the Original Network.
+% Level=3
+%  Final partition after additional refinement
+C 7 MODULARITY 4 20 50 1 1.0000000000 0.500000 (400)
+E 4 DRAW 7 0 0 0 0
+% # Louvain Community Detection. Coarsening only.                              #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+%  Single Refinement on the Original Network.
+% Level=3
+%  Final partition after additional refinement
+C 8 MODULARITY 4 20 50 1 2.0000000000 0.500000 (400)
+E 4 DRAW 8 0 0 0 0
+% Extracting Subnetwork according to Partition
+N 5 EXT 1 1 [21] 1 (1084)
+E 5 DRAW 9 0 0 0 0
+E 5 KAMADACOMP
+E 5 KAMADACOMP
+E 5 KAMADACOMP
+% # Louvain Community Detection. Coarsening only.                              #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+% Shrinking
+% Level=4
+%  Single Refinement on the Original Network.
+% Level=4
+%  Final partition after additional refinement
+C 10 MODULARITY 5 20 50 1 1.0000000000 0.500000 (1084)
+E 5 DRAW 10 0 0 0 0
+E 5 KAMADACOMP
+E 5 KAMADACOMP
+E 5 KAMADACOMP
+E 5 PARTCIRCULAR 10
+E 5 KAMADACOMP
+% Partition according to Regular Expression 0x6728|0x6797|0x68ee
+C 11 REGEXPC 5 0x6728|0x6797|0x68ee (1084)
+E 5 DRAW 11 0 0 0 0
+E 5 PARTCIRCULAR 11
+E 5 KAMADACOMP
+E 5 KAMADACOMP
+% Extracting Subnetwork according to Partition
+N 6 EXT 1 1 [60] 1 (365)
+E 6 DRAW 12 0 0 0 0
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 PARTCIRCCONC 12
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADAINSIDE 12
+E 6 PARTCIRCULAR 12
+E 6 FRUCHT
+E 6 FRUCHT3D
+E 6 ROT3D 0.577 0.577 0.577 360 2.000
+E 6 ROT3D 0.577 0.577 0.577 360 2.000
+% Computing eigenvalues
+E 6 EIGEN 1 1 1 n 0
+E 6 TILE
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 KAMADACOMP
+E 6 SVG 12 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\60.svg" 1 0
+E 6 SVG 12 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\60_dragon.svg" 1 0
+E 6 DRAW 12 0 0 0 0
+% # Louvain Community Detection. Coarsening only.                              #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+%  Single Refinement on the Original Network.
+% Level=3
+%  Final partition after additional refinement
+C 13 MODULARITY 6 20 50 1 1.0000000000 0.500000 (365)
+E 6 DRAW 13 0 0 0 0
+% Extracting Subnetwork according to Partition
+N 7 EXT 1 1 [60] 1 (365)
+E 7 DRAW 14 0 0 0 0
+E 7 SVG 14 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\60.svg" 1 0
+E 7 SVG 14 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\60.svg" 1 0
+E 7 TILE
+E 7 SVG 14 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\60_hex.svg" 1 0
+% # Louvain Community Detection. Coarsening only.                              #
+% Level=1
+% Shrinking
+% Level=2
+% Shrinking
+% Level=3
+%  Single Refinement on the Original Network.
+% Level=3
+%  Final partition after additional refinement
+C 15 MODULARITY 7 20 50 1 1.0000000000 0.500000 (365)
+E 7 DRAW 15 0 0 0 0
+E 7 SVG 15 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\60_louvain.svg" 1 0
+E 7 SVG 15 0 0 0 0 "Z:\home\shane\workspace\radical-clustering\img\60_hex_louvain.svg" 1 0
+E 7 DRAW 15 0 0 0 0

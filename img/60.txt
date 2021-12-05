@@ -1,0 +1,8 @@
+==============================================================================
+ Final partition after additional refinement
+==============================================================================
+ Number of Clusters: 16
+ Modularity: 0.767671
+
+ Maximum Number of Levels in each Iteration reached:     3
+ Maximum Number of Repetitions in each Level reached:    3

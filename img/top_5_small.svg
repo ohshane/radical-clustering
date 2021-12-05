@@ -1,0 +1,1690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 4. Extracting N1 according to C1 [75,49,76,68,51] (400) -->
+<!-- Creator: Pajek 5.14: http://mrvar.fdv.uni-lj.si/pajek -->
+<!-- CreationDate: 12-05-2021, 20:38:48 -->
+<svg xml:space="preserve" viewBox="0 0 1928 1043" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>4. Extracting N1 according to C1 [75,49,76,68,51] (400)</title>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 1025)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:saddlebrown; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L1910 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 1025)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Brush Script MT;font-size:75px;fill:green;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L1910 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<!-- Edge:     1  145 -->
+<line x1="775.75" y1="894.50" x2="582.09" y2="853.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     3   10 -->
+<line x1="1104.36" y1="330.83" x2="1087.07" y2="372.08" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     5  145 -->
+<line x1="696.06" y1="782.19" x2="582.09" y2="853.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     6   19 -->
+<line x1="891.15" y1="207.60" x2="967.15" y2="168.59" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     7   16 -->
+<line x1="1666.38" y1="183.93" x2="1649.27" y2="248.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     8   94 -->
+<line x1="1373.55" y1="278.92" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     9   10 -->
+<line x1="1044.01" y1="328.56" x2="1087.07" y2="372.08" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    11   16 -->
+<line x1="1647.85" y1="203.80" x2="1649.27" y2="248.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   12 -->
+<line x1="251.93" y1="287.34" x2="242.10" y2="373.86" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    13   19 -->
+<path d="M 909.44 121.30 C 917.94 125.14 961.72 161.01 967.15 168.59" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    13   19 -->
+<path d="M 909.44 121.30 C 914.88 128.87 958.65 164.75 967.15 168.59" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    10   15 -->
+<line x1="1087.07" y1="372.08" x2="1134.51" y2="480.81" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    17   71 -->
+<line x1="451.94" y1="595.99" x2="404.99" y2="546.35" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   18 -->
+<line x1="251.93" y1="287.34" x2="162.13" y2="326.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   20 -->
+<line x1="1649.27" y1="248.27" x2="1731.26" y2="204.86" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   21 -->
+<line x1="1087.07" y1="372.08" x2="1068.43" y2="467.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   22 -->
+<line x1="1087.07" y1="372.08" x2="1116.11" y2="478.03" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   23 -->
+<line x1="1649.27" y1="248.27" x2="1582.30" y2="227.77" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   24 -->
+<line x1="1087.07" y1="372.08" x2="1172.45" y2="338.20" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19   25 -->
+<line x1="967.15" y1="168.59" x2="940.65" y2="122.88" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   26 -->
+<line x1="251.93" y1="287.34" x2="200.67" y2="227.99" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   27 -->
+<line x1="1087.07" y1="372.08" x2="1149.29" y2="396.71" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   29 -->
+<line x1="1087.07" y1="372.08" x2="988.48" y2="364.59" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    30   94 -->
+<line x1="1344.93" y1="465.26" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    31  145 -->
+<line x1="301.66" y1="831.70" x2="582.09" y2="853.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   33 -->
+<line x1="251.93" y1="287.34" x2="281.45" y2="268.94" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   36 -->
+<line x1="1649.27" y1="248.27" x2="1598.68" y2="216.35" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    31   37 -->
+<line x1="301.66" y1="831.70" x2="97.20" y2="869.02" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    38   94 -->
+<line x1="1386.31" y1="327.28" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   39 -->
+<line x1="251.93" y1="287.34" x2="271.44" y2="356.98" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   40 -->
+<line x1="1087.07" y1="372.08" x2="988.17" y2="433.01" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    41   94 -->
+<line x1="1326.50" y1="472.39" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   42 -->
+<line x1="251.93" y1="287.34" x2="263.35" y2="319.67" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32   43 -->
+<line x1="563.70" y1="255.27" x2="586.48" y2="288.15" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   44 -->
+<line x1="1087.07" y1="372.08" x2="1072.69" y2="405.55" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   45 -->
+<line x1="1649.27" y1="248.27" x2="1651.40" y2="172.64" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    31   46 -->
+<line x1="301.66" y1="831.70" x2="97.11" y2="815.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    47   95 -->
+<line x1="458.72" y1="390.22" x2="419.57" y2="362.08" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    48   94 -->
+<line x1="1324.48" y1="264.53" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   49 -->
+<line x1="1087.07" y1="372.08" x2="1124.75" y2="344.48" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   51 -->
+<line x1="1087.07" y1="372.08" x2="1016.41" y2="462.41" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   52 -->
+<line x1="1649.27" y1="248.27" x2="1623.20" y2="289.79" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    53   95 -->
+<line x1="438.70" y1="442.63" x2="419.57" y2="362.08" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    54   68 -->
+<line x1="576.32" y1="535.90" x2="518.59" y2="495.57" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    55   94 -->
+<line x1="1378.87" y1="405.16" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   56 -->
+<line x1="1087.07" y1="372.08" x2="1023.54" y2="401.70" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    57   94 -->
+<line x1="1361.09" y1="260.94" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32   58 -->
+<line x1="563.70" y1="255.27" x2="635.26" y2="220.91" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   59 -->
+<line x1="251.93" y1="287.34" x2="200.02" y2="273.61" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   60 -->
+<line x1="1087.07" y1="372.08" x2="1163.41" y2="303.40" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   61 -->
+<line x1="1087.07" y1="372.08" x2="1139.75" y2="263.74" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    62   94 -->
+<line x1="1336.60" y1="226.47" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   63 -->
+<path d="M 1087.07 372.08 C 1096.03 380.66 1162.05 416.89 1174.10 419.84" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    10   63 -->
+<path d="M 1087.07 372.08 C 1099.12 375.03 1165.14 411.26 1174.10 419.84" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    10   63 -->
+<path d="M 1087.07 372.08 C 1111.88 371.54 1161.23 398.62 1174.10 419.84" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    19   64 -->
+<line x1="967.15" y1="168.59" x2="860.49" y2="223.05" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   65 -->
+<line x1="1087.07" y1="372.08" x2="1045.32" y2="476.68" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   66 -->
+<path d="M 251.93 287.34 C 259.13 286.12 299.35 267.64 304.97 262.98" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:     2   66 -->
+<path d="M 251.93 287.34 C 257.55 282.69 297.78 264.20 304.97 262.98" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:     2   66 -->
+<path d="M 251.93 287.34 C 260.37 275.44 290.44 261.62 304.97 262.98" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    10   67 -->
+<path d="M 1087.07 372.08 C 1077.87 369.32 1019.63 367.59 1010.28 369.79" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    10   67 -->
+<path d="M 1087.07 372.08 C 1077.72 374.29 1019.48 372.56 1010.28 369.79" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    10   67 -->
+<path d="M 1087.07 372.08 C 1070.16 381.19 1026.62 379.89 1010.28 369.79" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    16   69 -->
+<line x1="1649.27" y1="248.27" x2="1650.42" y2="325.50" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   70 -->
+<line x1="251.93" y1="287.34" x2="230.93" y2="196.79" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   72 -->
+<line x1="1649.27" y1="248.27" x2="1582.10" y2="199.57" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   73 -->
+<line x1="251.93" y1="287.34" x2="201.95" y2="344.09" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   74 -->
+<line x1="1087.07" y1="372.08" x2="1003.79" y2="396.36" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   75 -->
+<line x1="1649.27" y1="248.27" x2="1664.87" y2="313.65" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   76 -->
+<line x1="251.93" y1="287.34" x2="283.44" y2="320.01" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   77 -->
+<line x1="1087.07" y1="372.08" x2="985.99" y2="402.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    78   94 -->
+<line x1="1369.12" y1="427.53" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32   79 -->
+<line x1="563.70" y1="255.27" x2="621.67" y2="189.41" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32   80 -->
+<line x1="563.70" y1="255.27" x2="578.99" y2="157.47" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   81 -->
+<line x1="1087.07" y1="372.08" x2="1174.77" y2="401.44" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   82 -->
+<line x1="251.93" y1="287.34" x2="235.91" y2="218.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   83 -->
+<line x1="251.93" y1="287.34" x2="254.51" y2="353.11" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   84 -->
+<line x1="251.93" y1="287.34" x2="288.85" y2="242.06" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32   85 -->
+<line x1="563.70" y1="255.27" x2="607.40" y2="269.02" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   86 -->
+<line x1="1087.07" y1="372.08" x2="990.70" y2="380.98" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    87   95 -->
+<line x1="477.47" y1="368.76" x2="419.57" y2="362.08" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    88   94 -->
+<line x1="1334.62" y1="289.25" x2="1299.31" y2="343.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   89 -->
+<line x1="1087.07" y1="372.08" x2="1158.95" y2="372.37" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   90 -->
+<line x1="1087.07" y1="372.08" x2="1007.80" y2="420.03" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2   91 -->
+<line x1="251.93" y1="287.34" x2="189.81" y2="241.25" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16   92 -->
+<line x1="1649.27" y1="248.27" x2="1620.33" y2="227.65" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10   93 -->
+<line x1="1087.07" y1="372.08" x2="1076.15" y2="266.57" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95   96 -->
+<line x1="419.57" y1="362.08" x2="478.52" y2="343.68" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95   97 -->
+<line x1="419.57" y1="362.08" x2="432.05" y2="422.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95   98 -->
+<line x1="419.57" y1="362.08" x2="432.86" y2="327.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32   99 -->
+<line x1="563.70" y1="255.27" x2="501.26" y2="308.91" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95   99 -->
+<line x1="419.57" y1="362.08" x2="501.26" y2="308.91" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  100 -->
+<line x1="1087.07" y1="372.08" x2="1036.97" y2="425.39" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  101 -->
+<line x1="1087.07" y1="372.08" x2="1039.38" y2="296.31" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  102 -->
+<line x1="251.93" y1="287.34" x2="201.07" y2="308.47" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  103 -->
+<line x1="162.13" y1="326.43" x2="156.86" y2="420.32" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  104 -->
+<line x1="251.93" y1="287.34" x2="231.49" y2="358.94" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  105 -->
+<line x1="1649.27" y1="248.27" x2="1671.30" y2="221.25" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    68  106 -->
+<line x1="518.59" y1="495.57" x2="550.32" y2="559.16" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  107 -->
+<line x1="251.93" y1="287.34" x2="196.37" y2="325.63" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   108  147 -->
+<line x1="1080.19" y1="306.07" x2="1105.21" y2="553.44" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   109  203 -->
+<line x1="772.56" y1="167.50" x2="857.09" y2="165.19" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   109  140 -->
+<line x1="772.56" y1="167.50" x2="852.48" y2="195.41" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  110 -->
+<line x1="1087.07" y1="372.08" x2="1111.51" y2="281.40" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  111 -->
+<line x1="1087.07" y1="372.08" x2="1134.42" y2="369.14" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  112 -->
+<line x1="1087.07" y1="372.08" x2="1060.18" y2="308.34" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  113 -->
+<line x1="1299.31" y1="343.26" x2="1353.03" y2="240.00" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  114 -->
+<line x1="1649.27" y1="248.27" x2="1634.02" y2="173.15" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  115 -->
+<line x1="1087.07" y1="372.08" x2="1036.70" y2="370.12" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  116 -->
+<line x1="251.93" y1="287.34" x2="308.31" y2="246.00" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  117 -->
+<line x1="563.70" y1="255.27" x2="577.41" y2="181.34" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  118 -->
+<line x1="251.93" y1="287.34" x2="297.73" y2="281.68" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  119 -->
+<line x1="1087.07" y1="372.08" x2="1017.24" y2="437.11" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   120  145 -->
+<line x1="717.98" y1="913.93" x2="582.09" y2="853.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  121 -->
+<path d="M 251.93 287.34 C 257.02 280.35 275.86 231.37 276.77 222.77" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:     2  121 -->
+<path d="M 251.93 287.34 C 252.84 278.74 271.68 229.76 276.77 222.77" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:     2  121 -->
+<path d="M 251.93 287.34 C 249.24 270.26 263.32 233.65 276.77 222.77" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    10  122 -->
+<line x1="1087.07" y1="372.08" x2="1129.06" y2="460.38" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  123 -->
+<line x1="1299.31" y1="343.26" x2="1346.52" y2="401.61" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  124 -->
+<line x1="1087.07" y1="372.08" x2="1116.79" y2="306.55" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  125 -->
+<line x1="251.93" y1="287.34" x2="257.60" y2="370.87" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  126 -->
+<line x1="1087.07" y1="372.08" x2="1083.23" y2="446.90" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  127 -->
+<line x1="1087.07" y1="372.08" x2="1173.94" y2="360.56" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  128 -->
+<path d="M 563.70 255.27 C 561.86 245.07 535.05 188.12 528.36 180.20" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    32  128 -->
+<path d="M 563.70 255.27 C 557.00 247.35 530.20 190.41 528.36 180.20" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    32  128 -->
+<path d="M 563.70 255.27 C 546.66 243.44 526.63 200.87 528.36 180.20" style="stroke-width:1.00;stroke:rgb(153,153,153);fill:none"/> 
+<!-- Edge:    28  129 -->
+<line x1="1502.14" y1="263.75" x2="1443.22" y2="231.22" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  130 -->
+<line x1="419.57" y1="362.08" x2="415.31" y2="435.54" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  131 -->
+<line x1="419.57" y1="362.08" x2="399.86" y2="418.20" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  132 -->
+<line x1="967.15" y1="168.59" x2="876.91" y2="184.92" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  133 -->
+<line x1="251.93" y1="287.34" x2="244.64" y2="333.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  134 -->
+<line x1="251.93" y1="287.34" x2="305.31" y2="229.01" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  135 -->
+<line x1="563.70" y1="255.27" x2="649.26" y2="292.29" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  136 -->
+<line x1="1731.26" y1="204.86" x2="1778.97" y2="191.28" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  137 -->
+<line x1="419.57" y1="362.08" x2="393.31" y2="373.14" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  138 -->
+<line x1="419.57" y1="362.08" x2="435.15" y2="396.31" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   139  147 -->
+<line x1="1174.99" y1="646.64" x2="1105.21" y2="553.44" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  140 -->
+<line x1="967.15" y1="168.59" x2="852.48" y2="195.41" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  141 -->
+<line x1="419.57" y1="362.08" x2="481.18" y2="387.67" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  142 -->
+<line x1="563.70" y1="255.27" x2="607.62" y2="328.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  143 -->
+<line x1="419.57" y1="362.08" x2="377.02" y2="413.49" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  144 -->
+<line x1="1087.07" y1="372.08" x2="1062.03" y2="431.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  146 -->
+<line x1="1087.07" y1="372.08" x2="1154.83" y2="343.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  148 -->
+<line x1="563.70" y1="255.27" x2="535.09" y2="203.51" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  149 -->
+<line x1="1087.07" y1="372.08" x2="1091.10" y2="291.13" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  150 -->
+<line x1="251.93" y1="287.34" x2="267.68" y2="195.28" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  151 -->
+<line x1="1087.07" y1="372.08" x2="1168.26" y2="319.83" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  152 -->
+<line x1="162.13" y1="326.43" x2="120.11" y2="394.90" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    35  153 -->
+<line x1="1028.45" y1="593.38" x2="938.98" y2="645.09" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  154 -->
+<line x1="251.93" y1="287.34" x2="217.71" y2="288.28" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   155  353 -->
+<line x1="186.12" y1="452.57" x2="222.79" y2="377.94" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    51  156 -->
+<line x1="1016.41" y1="462.41" x2="935.18" y2="515.23" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    50  157 -->
+<line x1="1591.94" y1="395.33" x2="1537.79" y2="432.64" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    28  158 -->
+<line x1="1502.14" y1="263.75" x2="1450.38" y2="304.40" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   147  159 -->
+<line x1="1105.21" y1="553.44" x2="1098.90" y2="484.16" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  159 -->
+<line x1="1087.07" y1="372.08" x2="1098.90" y2="484.16" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    31  160 -->
+<line x1="301.66" y1="831.70" x2="197.19" y2="769.49" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    77  161 -->
+<line x1="985.99" y1="402.26" x2="898.41" y2="440.59" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  162 -->
+<line x1="1087.07" y1="372.08" x2="992.86" y2="349.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  163 -->
+<line x1="1087.07" y1="372.08" x2="1206.17" y2="354.52" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  163 -->
+<line x1="1299.31" y1="343.26" x2="1206.17" y2="354.52" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  164 -->
+<line x1="1087.07" y1="372.08" x2="1033.07" y2="451.65" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    40  165 -->
+<line x1="988.17" y1="433.01" x2="905.08" y2="465.41" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    99  166 -->
+<line x1="501.26" y1="308.91" x2="553.96" y2="371.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  167 -->
+<line x1="1649.27" y1="248.27" x2="1625.11" y2="194.63" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  168 -->
+<line x1="967.15" y1="168.59" x2="875.49" y2="227.06" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  169 -->
+<line x1="1299.31" y1="343.26" x2="1310.87" y2="243.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  170 -->
+<line x1="1087.07" y1="372.08" x2="1051.67" y2="282.22" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  171 -->
+<line x1="1731.26" y1="204.86" x2="1775.51" y2="271.19" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   171  316 -->
+<line x1="1775.51" y1="271.19" x2="1767.70" y2="330.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   172  316 -->
+<line x1="1787.57" y1="270.05" x2="1767.70" y2="330.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  172 -->
+<line x1="1731.26" y1="204.86" x2="1787.57" y2="270.05" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  173 -->
+<line x1="162.13" y1="326.43" x2="104.29" y2="347.75" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    35  174 -->
+<line x1="1028.45" y1="593.38" x2="989.67" y2="675.30" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    79  175 -->
+<line x1="621.67" y1="189.41" x2="667.42" y2="135.25" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  176 -->
+<line x1="1299.31" y1="343.26" x2="1330.52" y2="421.63" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  177 -->
+<line x1="1087.07" y1="372.08" x2="1048.47" y2="394.54" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  178 -->
+<line x1="582.09" y1="853.43" x2="442.29" y2="877.98" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  179 -->
+<line x1="967.15" y1="168.59" x2="898.23" y2="98.95" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    28  180 -->
+<line x1="1502.14" y1="263.75" x2="1569.20" y2="268.30" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  180 -->
+<line x1="1649.27" y1="248.27" x2="1569.20" y2="268.30" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  181 -->
+<line x1="1649.27" y1="248.27" x2="1566.94" y2="247.97" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    28  181 -->
+<line x1="1502.14" y1="263.75" x2="1566.94" y2="247.97" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  182 -->
+<line x1="251.93" y1="287.34" x2="219.38" y2="337.14" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   183  210 -->
+<line x1="1066.70" y1="882.58" x2="852.29" y2="868.12" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  184 -->
+<line x1="563.70" y1="255.27" x2="596.93" y2="239.36" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  185 -->
+<line x1="563.70" y1="255.27" x2="536.67" y2="163.13" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  186 -->
+<line x1="251.93" y1="287.34" x2="207.54" y2="250.02" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  187 -->
+<line x1="582.09" y1="853.43" x2="402.74" y2="904.18" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   147  188 -->
+<line x1="1105.21" y1="553.44" x2="1041.91" y2="209.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  189 -->
+<line x1="582.09" y1="853.43" x2="773.22" y2="808.51" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   147  190 -->
+<line x1="1105.21" y1="553.44" x2="1071.77" y2="663.53" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  191 -->
+<line x1="1087.07" y1="372.08" x2="999.11" y2="335.23" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  192 -->
+<line x1="1299.31" y1="343.26" x2="1348.96" y2="314.73" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  193 -->
+<line x1="1087.07" y1="372.08" x2="1099.88" y2="464.57" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    50  194 -->
+<line x1="1591.94" y1="395.33" x2="1602.63" y2="462.37" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  195 -->
+<line x1="967.15" y1="168.59" x2="905.53" y2="180.88" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    65  196 -->
+<line x1="1045.32" y1="476.68" x2="983.09" y2="557.47" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  197 -->
+<line x1="251.93" y1="287.34" x2="265.16" y2="250.91" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  198 -->
+<line x1="1087.07" y1="372.08" x2="1143.43" y2="299.70" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   199  380 -->
+<line x1="271.49" y1="113.99" x2="256.02" y2="196.00" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  200 -->
+<line x1="162.13" y1="326.43" x2="96.40" y2="331.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  201 -->
+<line x1="582.09" y1="853.43" x2="354.68" y2="875.38" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    40  202 -->
+<line x1="988.17" y1="433.01" x2="893.39" y2="417.45" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  203 -->
+<line x1="967.15" y1="168.59" x2="857.09" y2="165.19" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    80  204 -->
+<line x1="578.99" y1="157.47" x2="602.49" y2="86.82" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   205  270 -->
+<line x1="348.09" y1="184.31" x2="314.03" y2="311.54" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    53  206 -->
+<line x1="438.70" y1="442.63" x2="456.81" y2="513.02" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  207 -->
+<line x1="967.15" y1="168.59" x2="962.64" y2="58.12" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  208 -->
+<line x1="1649.27" y1="248.27" x2="1591.00" y2="279.18" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    40  209 -->
+<line x1="988.17" y1="433.01" x2="953.04" y2="535.01" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  210 -->
+<line x1="582.09" y1="853.43" x2="852.29" y2="868.12" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  211 -->
+<line x1="419.57" y1="362.08" x2="453.84" y2="418.58" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    96  212 -->
+<line x1="478.52" y1="343.68" x2="538.30" y2="432.84" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   135  213 -->
+<line x1="649.26" y1="292.29" x2="716.43" y2="310.56" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  214 -->
+<line x1="1649.27" y1="248.27" x2="1693.30" y2="225.49" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  215 -->
+<line x1="1299.31" y1="343.26" x2="1325.53" y2="448.31" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  216 -->
+<line x1="967.15" y1="168.59" x2="1039.11" y2="63.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   217  270 -->
+<line x1="267.13" y1="435.28" x2="314.03" y2="311.54" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  218 -->
+<line x1="967.15" y1="168.59" x2="1051.96" y2="79.14" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    71  219 -->
+<line x1="404.99" y1="546.35" x2="376.77" y2="606.25" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  220 -->
+<line x1="1731.26" y1="204.86" x2="1703.15" y2="123.36" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  221 -->
+<line x1="251.93" y1="287.34" x2="243.60" y2="241.50" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  222 -->
+<line x1="1087.07" y1="372.08" x2="1154.52" y2="285.92" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  223 -->
+<line x1="1087.07" y1="372.08" x2="1121.08" y2="263.81" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  224 -->
+<line x1="563.70" y1="255.27" x2="645.07" y2="250.48" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  225 -->
+<line x1="251.93" y1="287.34" x2="218.72" y2="228.94" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  226 -->
+<line x1="582.09" y1="853.43" x2="647.17" y2="806.13" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    61  227 -->
+<line x1="1139.75" y1="263.74" x2="1178.11" y2="170.64" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    71  228 -->
+<line x1="404.99" y1="546.35" x2="475.50" y2="588.50" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  229 -->
+<line x1="563.70" y1="255.27" x2="612.80" y2="211.46" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  230 -->
+<line x1="1299.31" y1="343.26" x2="1388.27" y2="356.52" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  231 -->
+<line x1="1087.07" y1="372.08" x2="1166.50" y2="438.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  232 -->
+<line x1="1649.27" y1="248.27" x2="1678.94" y2="293.17" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  233 -->
+<line x1="1299.31" y1="343.26" x2="1345.18" y2="371.54" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  234 -->
+<line x1="967.15" y1="168.59" x2="880.27" y2="149.52" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  235 -->
+<line x1="967.15" y1="168.59" x2="881.06" y2="124.66" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  236 -->
+<line x1="251.93" y1="287.34" x2="283.71" y2="297.78" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  237 -->
+<line x1="1087.07" y1="372.08" x2="1112.87" y2="443.05" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  238 -->
+<line x1="967.15" y1="168.59" x2="938.23" y2="68.38" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  239 -->
+<line x1="1649.27" y1="248.27" x2="1594.42" y2="250.10" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    72  240 -->
+<line x1="1582.10" y1="199.57" x2="1527.40" y2="157.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  241 -->
+<line x1="1087.07" y1="372.08" x2="1023.61" y2="303.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  242 -->
+<line x1="1731.26" y1="204.86" x2="1745.74" y2="134.77" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  243 -->
+<line x1="563.70" y1="255.27" x2="595.91" y2="310.99" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  244 -->
+<line x1="1087.07" y1="372.08" x2="1146.58" y2="462.91" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   245  316 -->
+<line x1="1805.01" y1="387.54" x2="1767.70" y2="330.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  246 -->
+<line x1="563.70" y1="255.27" x2="638.05" y2="271.85" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    70  247 -->
+<line x1="230.93" y1="196.79" x2="245.47" y2="115.00" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    51  248 -->
+<line x1="1016.41" y1="462.41" x2="983.51" y2="559.92" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   147  249 -->
+<line x1="1105.21" y1="553.44" x2="1126.34" y2="662.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  250 -->
+<line x1="563.70" y1="255.27" x2="624.41" y2="328.12" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  251 -->
+<line x1="967.15" y1="168.59" x2="1009.09" y2="106.78" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   252  253 -->
+<line x1="1577.48" y1="106.23" x2="1543.92" y2="52.15" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  254 -->
+<line x1="1087.07" y1="372.08" x2="1126.05" y2="415.33" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  255 -->
+<line x1="162.13" y1="326.43" x2="100.83" y2="279.67" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  256 -->
+<line x1="563.70" y1="255.27" x2="618.71" y2="295.07" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  257 -->
+<line x1="251.93" y1="287.34" x2="297.47" y2="215.57" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  258 -->
+<line x1="967.15" y1="168.59" x2="1016.12" y2="53.87" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  259 -->
+<line x1="1649.27" y1="248.27" x2="1592.74" y2="297.59" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  260 -->
+<line x1="1299.31" y1="343.26" x2="1379.99" y2="302.30" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  261 -->
+<line x1="1087.07" y1="372.08" x2="1157.67" y2="451.68" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  262 -->
+<line x1="563.70" y1="255.27" x2="581.73" y2="211.47" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  263 -->
+<line x1="582.09" y1="853.43" x2="573.19" y2="783.95" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    96  264 -->
+<line x1="478.52" y1="343.68" x2="468.14" y2="227.73" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  265 -->
+<line x1="162.13" y1="326.43" x2="104.61" y2="262.78" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  266 -->
+<line x1="1649.27" y1="248.27" x2="1703.19" y2="265.00" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  267 -->
+<line x1="1087.07" y1="372.08" x2="1156.87" y2="419.21" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  268 -->
+<line x1="251.93" y1="287.34" x2="183.01" y2="278.20" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  269 -->
+<line x1="582.09" y1="853.43" x2="416.69" y2="812.68" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  270 -->
+<line x1="251.93" y1="287.34" x2="314.03" y2="311.54" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    68  271 -->
+<line x1="518.59" y1="495.57" x2="594.88" y2="509.16" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  272 -->
+<line x1="1087.07" y1="372.08" x2="1066.89" y2="279.37" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  273 -->
+<line x1="1649.27" y1="248.27" x2="1651.44" y2="288.69" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  274 -->
+<line x1="419.57" y1="362.08" x2="454.30" y2="364.20" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  275 -->
+<line x1="563.70" y1="255.27" x2="626.70" y2="241.65" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  276 -->
+<line x1="563.70" y1="255.27" x2="555.19" y2="161.23" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   277  397 -->
+<line x1="380.16" y1="693.39" x2="426.38" y2="626.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  278 -->
+<line x1="1299.31" y1="343.26" x2="1357.20" y2="446.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  279 -->
+<line x1="582.09" y1="853.43" x2="479.09" y2="788.69" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   280  397 -->
+<line x1="433.29" y1="695.34" x2="426.38" y2="626.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  281 -->
+<line x1="1087.07" y1="372.08" x2="1090.85" y2="264.35" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  282 -->
+<line x1="967.15" y1="168.59" x2="1037.21" y2="95.49" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    71  283 -->
+<line x1="404.99" y1="546.35" x2="354.69" y2="602.01" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  284 -->
+<line x1="419.57" y1="362.08" x2="393.96" y2="438.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  285 -->
+<line x1="419.57" y1="362.08" x2="408.46" y2="396.45" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  286 -->
+<line x1="419.57" y1="362.08" x2="452.63" y2="317.23" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  287 -->
+<line x1="419.57" y1="362.08" x2="415.64" y2="311.14" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  288 -->
+<line x1="419.57" y1="362.08" x2="378.91" y2="431.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  289 -->
+<line x1="563.70" y1="255.27" x2="598.88" y2="183.14" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  290 -->
+<line x1="582.09" y1="853.43" x2="751.85" y2="866.52" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  291 -->
+<line x1="582.09" y1="853.43" x2="517.29" y2="929.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     4  292 -->
+<line x1="1331.92" y1="767.56" x2="1450.29" y2="807.73" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   293  316 -->
+<line x1="1831.60" y1="353.63" x2="1767.70" y2="330.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  294 -->
+<line x1="1649.27" y1="248.27" x2="1680.83" y2="199.50" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    15  295 -->
+<line x1="1134.51" y1="480.81" x2="1168.94" y2="573.56" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  296 -->
+<line x1="1649.27" y1="248.27" x2="1686.70" y2="325.36" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  297 -->
+<line x1="967.15" y1="168.59" x2="916.22" y2="153.64" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  298 -->
+<line x1="967.15" y1="168.59" x2="951.84" y2="92.61" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  299 -->
+<line x1="1731.26" y1="204.86" x2="1722.70" y2="120.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  300 -->
+<line x1="1649.27" y1="248.27" x2="1614.30" y2="264.79" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  301 -->
+<line x1="582.09" y1="853.43" x2="822.78" y2="834.89" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  302 -->
+<line x1="563.70" y1="255.27" x2="552.82" y2="187.19" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  303 -->
+<line x1="1731.26" y1="204.86" x2="1800.54" y2="187.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  304 -->
+<line x1="1087.07" y1="372.08" x2="1057.58" y2="352.71" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     4  305 -->
+<line x1="1331.92" y1="767.56" x2="1424.23" y2="723.93" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  306 -->
+<line x1="1087.07" y1="372.08" x2="1142.89" y2="322.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  307 -->
+<line x1="1087.07" y1="372.08" x2="1079.85" y2="331.10" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  308 -->
+<line x1="1299.31" y1="343.26" x2="1304.89" y2="217.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  309 -->
+<line x1="162.13" y1="326.43" x2="111.10" y2="246.69" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  310 -->
+<line x1="1299.31" y1="343.26" x2="1380.86" y2="380.73" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  311 -->
+<line x1="162.13" y1="326.43" x2="96.73" y2="296.44" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  312 -->
+<line x1="162.13" y1="326.43" x2="98.32" y2="313.97" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  313 -->
+<line x1="1649.27" y1="248.27" x2="1679.95" y2="267.12" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  314 -->
+<line x1="1731.26" y1="204.86" x2="1800.60" y2="236.94" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  315 -->
+<line x1="1299.31" y1="343.26" x2="1360.94" y2="344.44" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  317 -->
+<line x1="251.93" y1="287.34" x2="187.27" y2="297.44" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  318 -->
+<line x1="1649.27" y1="248.27" x2="1603.96" y2="192.10" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  319 -->
+<line x1="419.57" y1="362.08" x2="442.57" y2="300.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  320 -->
+<line x1="251.93" y1="287.34" x2="285.49" y2="206.43" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  321 -->
+<line x1="162.13" y1="326.43" x2="136.70" y2="399.32" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  322 -->
+<line x1="419.57" y1="362.08" x2="455.58" y2="340.40" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  323 -->
+<line x1="251.93" y1="287.34" x2="277.62" y2="340.10" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  324 -->
+<line x1="1087.07" y1="372.08" x2="1176.01" y2="383.95" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  325 -->
+<line x1="1649.27" y1="248.27" x2="1608.38" y2="308.20" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  326 -->
+<line x1="582.09" y1="853.43" x2="643.14" y2="893.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  327 -->
+<line x1="1087.07" y1="372.08" x2="1050.96" y2="454.76" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  328 -->
+<line x1="1731.26" y1="204.86" x2="1804.12" y2="212.17" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  329 -->
+<line x1="1087.07" y1="372.08" x2="1116.52" y2="388.75" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    14  330 -->
+<line x1="186.36" y1="128.69" x2="211.47" y2="205.38" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  330 -->
+<line x1="251.93" y1="287.34" x2="211.47" y2="205.38" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   252  331 -->
+<line x1="1577.48" y1="106.23" x2="1611.13" y2="168.34" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  331 -->
+<line x1="1649.27" y1="248.27" x2="1611.13" y2="168.34" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  332 -->
+<line x1="1087.07" y1="372.08" x2="1104.95" y2="260.06" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  333 -->
+<line x1="1087.07" y1="372.08" x2="1082.63" y2="479.71" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  334 -->
+<line x1="967.15" y1="168.59" x2="1019.84" y2="258.99" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  334 -->
+<line x1="1087.07" y1="372.08" x2="1019.84" y2="258.99" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  335 -->
+<line x1="967.15" y1="168.59" x2="982.75" y2="76.77" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  336 -->
+<line x1="1731.26" y1="204.86" x2="1769.12" y2="134.57" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    34  336 -->
+<line x1="1799.04" y1="74.34" x2="1769.12" y2="134.57" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  337 -->
+<line x1="1731.26" y1="204.86" x2="1761.11" y2="161.49" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  338 -->
+<line x1="967.15" y1="168.59" x2="1016.00" y2="78.73" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   150  339 -->
+<line x1="267.68" y1="195.28" x2="233.69" y2="117.87" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  340 -->
+<line x1="967.15" y1="168.59" x2="979.23" y2="111.48" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    35  341 -->
+<line x1="1028.45" y1="593.38" x2="1050.94" y2="690.88" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    35  342 -->
+<line x1="1028.45" y1="593.38" x2="1060.42" y2="491.79" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  342 -->
+<line x1="1087.07" y1="372.08" x2="1060.42" y2="491.79" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  343 -->
+<line x1="563.70" y1="255.27" x2="633.94" y2="311.35" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  344 -->
+<line x1="251.93" y1="287.34" x2="229.12" y2="261.11" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  345 -->
+<line x1="1731.26" y1="204.86" x2="1725.81" y2="142.09" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   291  346 -->
+<line x1="517.29" y1="929.43" x2="488.13" y2="990.85" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  347 -->
+<line x1="251.93" y1="287.34" x2="212.83" y2="358.92" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  348 -->
+<line x1="1649.27" y1="248.27" x2="1700.56" y2="245.26" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  349 -->
+<line x1="419.57" y1="362.08" x2="409.32" y2="333.58" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  350 -->
+<line x1="1649.27" y1="248.27" x2="1634.75" y2="313.55" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  351 -->
+<line x1="967.15" y1="168.59" x2="919.12" y2="84.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  352 -->
+<line x1="162.13" y1="326.43" x2="104.60" y2="366.22" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  353 -->
+<line x1="251.93" y1="287.34" x2="222.79" y2="377.94" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  354 -->
+<line x1="1087.07" y1="372.08" x2="1134.40" y2="281.35" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   316  355 -->
+<line x1="1767.70" y1="330.72" x2="1714.11" y2="290.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  355 -->
+<line x1="1649.27" y1="248.27" x2="1714.11" y2="290.42" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  356 -->
+<line x1="1649.27" y1="248.27" x2="1706.14" y2="304.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   316  356 -->
+<line x1="1767.70" y1="330.72" x2="1706.14" y2="304.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   316  357 -->
+<line x1="1767.70" y1="330.72" x2="1718.82" y2="383.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   296  357 -->
+<line x1="1686.70" y1="325.36" x2="1718.82" y2="383.04" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   296  358 -->
+<line x1="1686.70" y1="325.36" x2="1737.60" y2="373.22" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   316  358 -->
+<line x1="1767.70" y1="330.72" x2="1737.60" y2="373.22" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    68  359 -->
+<line x1="518.59" y1="495.57" x2="520.68" y2="574.37" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     5  360 -->
+<line x1="696.06" y1="782.19" x2="788.80" y2="725.97" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  361 -->
+<line x1="1087.07" y1="372.08" x2="1020.37" y2="347.54" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  362 -->
+<line x1="251.93" y1="287.34" x2="227.57" y2="313.33" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  363 -->
+<line x1="563.70" y1="255.27" x2="553.30" y2="219.77" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  364 -->
+<line x1="419.57" y1="362.08" x2="339.35" y2="324.85" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  364 -->
+<line x1="251.93" y1="287.34" x2="339.35" y2="324.85" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  365 -->
+<line x1="419.57" y1="362.08" x2="383.43" y2="394.46" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  366 -->
+<line x1="419.57" y1="362.08" x2="419.93" y2="293.67" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  367 -->
+<line x1="419.57" y1="362.08" x2="432.78" y2="286.51" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    71  368 -->
+<line x1="404.99" y1="546.35" x2="407.52" y2="465.02" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  368 -->
+<line x1="419.57" y1="362.08" x2="407.52" y2="465.02" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  369 -->
+<line x1="419.57" y1="362.08" x2="371.37" y2="336.58" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   270  369 -->
+<line x1="314.03" y1="311.54" x2="371.37" y2="336.58" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  370 -->
+<line x1="419.57" y1="362.08" x2="471.87" y2="434.31" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    68  370 -->
+<line x1="518.59" y1="495.57" x2="471.87" y2="434.31" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  371 -->
+<line x1="162.13" y1="326.43" x2="142.17" y2="414.97" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  372 -->
+<line x1="582.09" y1="853.43" x2="728.86" y2="832.66" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  373 -->
+<line x1="582.09" y1="853.43" x2="409.65" y2="845.34" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  374 -->
+<line x1="582.09" y1="853.43" x2="508.54" y2="903.28" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    14  375 -->
+<line x1="186.36" y1="128.69" x2="186.27" y2="52.56" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  376 -->
+<line x1="1087.07" y1="372.08" x2="1021.96" y2="322.19" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    70  377 -->
+<line x1="230.93" y1="196.79" x2="168.21" y2="148.34" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    94  378 -->
+<line x1="1299.31" y1="343.26" x2="1321.67" y2="211.67" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     4  379 -->
+<line x1="1331.92" y1="767.56" x2="1122.24" y2="771.27" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  380 -->
+<line x1="251.93" y1="287.34" x2="256.02" y2="196.00" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  381 -->
+<line x1="251.93" y1="287.34" x2="257.02" y2="219.29" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  382 -->
+<line x1="1087.07" y1="372.08" x2="1140.57" y2="437.02" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    19  383 -->
+<line x1="967.15" y1="168.59" x2="990.85" y2="52.56" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    14  384 -->
+<line x1="186.36" y1="128.69" x2="128.08" y2="86.84" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  385 -->
+<line x1="1087.07" y1="372.08" x2="1006.17" y2="319.13" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    40  386 -->
+<line x1="988.17" y1="433.01" x2="920.33" y2="495.80" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    50  387 -->
+<line x1="1591.94" y1="395.33" x2="1618.67" y2="330.92" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    16  387 -->
+<line x1="1649.27" y1="248.27" x2="1618.67" y2="330.92" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    18  388 -->
+<line x1="162.13" y1="326.43" x2="119.01" y2="376.33" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  389 -->
+<line x1="582.09" y1="853.43" x2="518.00" y2="813.81" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   145  390 -->
+<line x1="582.09" y1="853.43" x2="623.13" y2="920.60" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  391 -->
+<line x1="1731.26" y1="204.86" x2="1782.80" y2="225.22" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    20  392 -->
+<line x1="1731.26" y1="204.86" x2="1786.23" y2="164.06" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:     2  393 -->
+<line x1="251.93" y1="287.34" x2="184.97" y2="258.06" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  394 -->
+<line x1="419.57" y1="362.08" x2="492.21" y2="294.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    32  394 -->
+<line x1="563.70" y1="255.27" x2="492.21" y2="294.24" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    10  395 -->
+<line x1="1087.07" y1="372.08" x2="1097.17" y2="418.66" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    71  396 -->
+<line x1="404.99" y1="546.35" x2="336.85" y2="593.84" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    71  397 -->
+<line x1="404.99" y1="546.35" x2="426.38" y2="626.72" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    71  398 -->
+<line x1="404.99" y1="546.35" x2="406.30" y2="603.31" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:   397  399 -->
+<line x1="426.38" y1="626.72" x2="484.07" y2="678.61" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+<!-- Edge:    95  400 -->
+<line x1="419.57" y1="362.08" x2="473.26" y2="405.94" style="stroke-width:1.00;stroke:rgb(153,153,153)"/>
+
+<!-- Vertex:     1 -->
+<ellipse cx="775.75" cy="894.50" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     2 -->
+<ellipse cx="251.93" cy="287.34" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     3 -->
+<ellipse cx="1104.36" cy="330.83" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     4 -->
+<ellipse cx="1331.92" cy="767.56" rx="10.00" ry="10.00" style="fill:rgb(63,63,63);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     5 -->
+<ellipse cx="696.06" cy="782.19" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     6 -->
+<ellipse cx="891.15" cy="207.60" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     7 -->
+<ellipse cx="1666.38" cy="183.93" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     8 -->
+<ellipse cx="1373.55" cy="278.92" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:     9 -->
+<ellipse cx="1044.01" cy="328.56" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    10 -->
+<ellipse cx="1087.07" cy="372.08" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    11 -->
+<ellipse cx="1647.85" cy="203.80" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    12 -->
+<ellipse cx="242.10" cy="373.86" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    13 -->
+<ellipse cx="909.44" cy="121.30" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    14 -->
+<ellipse cx="186.36" cy="128.69" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    15 -->
+<ellipse cx="1134.51" cy="480.81" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    16 -->
+<ellipse cx="1649.27" cy="248.27" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    17 -->
+<ellipse cx="451.94" cy="595.99" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    18 -->
+<ellipse cx="162.13" cy="326.43" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    19 -->
+<ellipse cx="967.15" cy="168.59" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    20 -->
+<ellipse cx="1731.26" cy="204.86" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    21 -->
+<ellipse cx="1068.43" cy="467.27" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    22 -->
+<ellipse cx="1116.11" cy="478.03" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    23 -->
+<ellipse cx="1582.30" cy="227.77" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    24 -->
+<ellipse cx="1172.45" cy="338.20" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    25 -->
+<ellipse cx="940.65" cy="122.88" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    26 -->
+<ellipse cx="200.67" cy="227.99" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    27 -->
+<ellipse cx="1149.29" cy="396.71" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    28 -->
+<ellipse cx="1502.14" cy="263.75" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    29 -->
+<ellipse cx="988.48" cy="364.59" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    30 -->
+<ellipse cx="1344.93" cy="465.26" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    31 -->
+<ellipse cx="301.66" cy="831.70" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    32 -->
+<ellipse cx="563.70" cy="255.27" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    33 -->
+<ellipse cx="281.45" cy="268.94" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    34 -->
+<ellipse cx="1799.04" cy="74.34" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    35 -->
+<ellipse cx="1028.45" cy="593.38" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    36 -->
+<ellipse cx="1598.68" cy="216.35" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    37 -->
+<ellipse cx="97.20" cy="869.02" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    38 -->
+<ellipse cx="1386.31" cy="327.28" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    39 -->
+<ellipse cx="271.44" cy="356.98" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    40 -->
+<ellipse cx="988.17" cy="433.01" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    41 -->
+<ellipse cx="1326.50" cy="472.39" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    42 -->
+<ellipse cx="263.35" cy="319.67" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    43 -->
+<ellipse cx="586.48" cy="288.15" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    44 -->
+<ellipse cx="1072.69" cy="405.55" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    45 -->
+<ellipse cx="1651.40" cy="172.64" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    46 -->
+<ellipse cx="97.11" cy="815.26" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    47 -->
+<ellipse cx="458.72" cy="390.22" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    48 -->
+<ellipse cx="1324.48" cy="264.53" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    49 -->
+<ellipse cx="1124.75" cy="344.48" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    50 -->
+<ellipse cx="1591.94" cy="395.33" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    51 -->
+<ellipse cx="1016.41" cy="462.41" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    52 -->
+<ellipse cx="1623.20" cy="289.79" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    53 -->
+<ellipse cx="438.70" cy="442.63" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    54 -->
+<ellipse cx="576.32" cy="535.90" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    55 -->
+<ellipse cx="1378.87" cy="405.16" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    56 -->
+<ellipse cx="1023.54" cy="401.70" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    57 -->
+<ellipse cx="1361.09" cy="260.94" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    58 -->
+<ellipse cx="635.26" cy="220.91" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    59 -->
+<ellipse cx="200.02" cy="273.61" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    60 -->
+<ellipse cx="1163.41" cy="303.40" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    61 -->
+<ellipse cx="1139.75" cy="263.74" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    62 -->
+<ellipse cx="1336.60" cy="226.47" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    63 -->
+<ellipse cx="1174.10" cy="419.84" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    64 -->
+<ellipse cx="860.49" cy="223.05" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    65 -->
+<ellipse cx="1045.32" cy="476.68" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    66 -->
+<ellipse cx="304.97" cy="262.98" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    67 -->
+<ellipse cx="1010.28" cy="369.79" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    68 -->
+<ellipse cx="518.59" cy="495.57" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    69 -->
+<ellipse cx="1650.42" cy="325.50" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    70 -->
+<ellipse cx="230.93" cy="196.79" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    71 -->
+<ellipse cx="404.99" cy="546.35" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    72 -->
+<ellipse cx="1582.10" cy="199.57" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    73 -->
+<ellipse cx="201.95" cy="344.09" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    74 -->
+<ellipse cx="1003.79" cy="396.36" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    75 -->
+<ellipse cx="1664.87" cy="313.65" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    76 -->
+<ellipse cx="283.44" cy="320.01" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    77 -->
+<ellipse cx="985.99" cy="402.26" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    78 -->
+<ellipse cx="1369.12" cy="427.53" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    79 -->
+<ellipse cx="621.67" cy="189.41" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    80 -->
+<ellipse cx="578.99" cy="157.47" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    81 -->
+<ellipse cx="1174.77" cy="401.44" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    82 -->
+<ellipse cx="235.91" cy="218.26" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    83 -->
+<ellipse cx="254.51" cy="353.11" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    84 -->
+<ellipse cx="288.85" cy="242.06" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    85 -->
+<ellipse cx="607.40" cy="269.02" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    86 -->
+<ellipse cx="990.70" cy="380.98" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    87 -->
+<ellipse cx="477.47" cy="368.76" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    88 -->
+<ellipse cx="1334.62" cy="289.25" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    89 -->
+<ellipse cx="1158.95" cy="372.37" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    90 -->
+<ellipse cx="1007.80" cy="420.03" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    91 -->
+<ellipse cx="189.81" cy="241.25" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    92 -->
+<ellipse cx="1620.33" cy="227.65" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    93 -->
+<ellipse cx="1076.15" cy="266.57" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    94 -->
+<ellipse cx="1299.31" cy="343.26" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    95 -->
+<ellipse cx="419.57" cy="362.08" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    96 -->
+<ellipse cx="478.52" cy="343.68" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    97 -->
+<ellipse cx="432.05" cy="422.24" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    98 -->
+<ellipse cx="432.86" cy="327.24" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:    99 -->
+<ellipse cx="501.26" cy="308.91" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   100 -->
+<ellipse cx="1036.97" cy="425.39" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   101 -->
+<ellipse cx="1039.38" cy="296.31" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   102 -->
+<ellipse cx="201.07" cy="308.47" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   103 -->
+<ellipse cx="156.86" cy="420.32" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   104 -->
+<ellipse cx="231.49" cy="358.94" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   105 -->
+<ellipse cx="1671.30" cy="221.25" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   106 -->
+<ellipse cx="550.32" cy="559.16" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   107 -->
+<ellipse cx="196.37" cy="325.63" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   108 -->
+<ellipse cx="1080.19" cy="306.07" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   109 -->
+<ellipse cx="772.56" cy="167.50" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   110 -->
+<ellipse cx="1111.51" cy="281.40" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   111 -->
+<ellipse cx="1134.42" cy="369.14" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   112 -->
+<ellipse cx="1060.18" cy="308.34" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   113 -->
+<ellipse cx="1353.03" cy="240.00" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   114 -->
+<ellipse cx="1634.02" cy="173.15" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   115 -->
+<ellipse cx="1036.70" cy="370.12" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   116 -->
+<ellipse cx="308.31" cy="246.00" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   117 -->
+<ellipse cx="577.41" cy="181.34" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   118 -->
+<ellipse cx="297.73" cy="281.68" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   119 -->
+<ellipse cx="1017.24" cy="437.11" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   120 -->
+<ellipse cx="717.98" cy="913.93" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   121 -->
+<ellipse cx="276.77" cy="222.77" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   122 -->
+<ellipse cx="1129.06" cy="460.38" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   123 -->
+<ellipse cx="1346.52" cy="401.61" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   124 -->
+<ellipse cx="1116.79" cy="306.55" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   125 -->
+<ellipse cx="257.60" cy="370.87" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   126 -->
+<ellipse cx="1083.23" cy="446.90" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   127 -->
+<ellipse cx="1173.94" cy="360.56" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   128 -->
+<ellipse cx="528.36" cy="180.20" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   129 -->
+<ellipse cx="1443.22" cy="231.22" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   130 -->
+<ellipse cx="415.31" cy="435.54" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   131 -->
+<ellipse cx="399.86" cy="418.20" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   132 -->
+<ellipse cx="876.91" cy="184.92" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   133 -->
+<ellipse cx="244.64" cy="333.42" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   134 -->
+<ellipse cx="305.31" cy="229.01" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   135 -->
+<ellipse cx="649.26" cy="292.29" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   136 -->
+<ellipse cx="1778.97" cy="191.28" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   137 -->
+<ellipse cx="393.31" cy="373.14" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   138 -->
+<ellipse cx="435.15" cy="396.31" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   139 -->
+<ellipse cx="1174.99" cy="646.64" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   140 -->
+<ellipse cx="852.48" cy="195.41" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   141 -->
+<ellipse cx="481.18" cy="387.67" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   142 -->
+<ellipse cx="607.62" cy="328.42" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   143 -->
+<ellipse cx="377.02" cy="413.49" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   144 -->
+<ellipse cx="1062.03" cy="431.42" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   145 -->
+<ellipse cx="582.09" cy="853.43" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   146 -->
+<ellipse cx="1154.83" cy="343.43" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   147 -->
+<ellipse cx="1105.21" cy="553.44" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   148 -->
+<ellipse cx="535.09" cy="203.51" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   149 -->
+<ellipse cx="1091.10" cy="291.13" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   150 -->
+<ellipse cx="267.68" cy="195.28" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   151 -->
+<ellipse cx="1168.26" cy="319.83" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   152 -->
+<ellipse cx="120.11" cy="394.90" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   153 -->
+<ellipse cx="938.98" cy="645.09" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   154 -->
+<ellipse cx="217.71" cy="288.28" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   155 -->
+<ellipse cx="186.12" cy="452.57" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   156 -->
+<ellipse cx="935.18" cy="515.23" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   157 -->
+<ellipse cx="1537.79" cy="432.64" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   158 -->
+<ellipse cx="1450.38" cy="304.40" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   159 -->
+<ellipse cx="1098.90" cy="484.16" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   160 -->
+<ellipse cx="197.19" cy="769.49" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   161 -->
+<ellipse cx="898.41" cy="440.59" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   162 -->
+<ellipse cx="992.86" cy="349.26" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   163 -->
+<ellipse cx="1206.17" cy="354.52" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   164 -->
+<ellipse cx="1033.07" cy="451.65" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   165 -->
+<ellipse cx="905.08" cy="465.41" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   166 -->
+<ellipse cx="553.96" cy="371.27" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   167 -->
+<ellipse cx="1625.11" cy="194.63" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   168 -->
+<ellipse cx="875.49" cy="227.06" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   169 -->
+<ellipse cx="1310.87" cy="243.42" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   170 -->
+<ellipse cx="1051.67" cy="282.22" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   171 -->
+<ellipse cx="1775.51" cy="271.19" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   172 -->
+<ellipse cx="1787.57" cy="270.05" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   173 -->
+<ellipse cx="104.29" cy="347.75" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   174 -->
+<ellipse cx="989.67" cy="675.30" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   175 -->
+<ellipse cx="667.42" cy="135.25" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   176 -->
+<ellipse cx="1330.52" cy="421.63" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   177 -->
+<ellipse cx="1048.47" cy="394.54" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   178 -->
+<ellipse cx="442.29" cy="877.98" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   179 -->
+<ellipse cx="898.23" cy="98.95" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   180 -->
+<ellipse cx="1569.20" cy="268.30" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   181 -->
+<ellipse cx="1566.94" cy="247.97" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   182 -->
+<ellipse cx="219.38" cy="337.14" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   183 -->
+<ellipse cx="1066.70" cy="882.58" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   184 -->
+<ellipse cx="596.93" cy="239.36" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   185 -->
+<ellipse cx="536.67" cy="163.13" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   186 -->
+<ellipse cx="207.54" cy="250.02" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   187 -->
+<ellipse cx="402.74" cy="904.18" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   188 -->
+<ellipse cx="1041.91" cy="209.04" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   189 -->
+<ellipse cx="773.22" cy="808.51" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   190 -->
+<ellipse cx="1071.77" cy="663.53" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   191 -->
+<ellipse cx="999.11" cy="335.23" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   192 -->
+<ellipse cx="1348.96" cy="314.73" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   193 -->
+<ellipse cx="1099.88" cy="464.57" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   194 -->
+<ellipse cx="1602.63" cy="462.37" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   195 -->
+<ellipse cx="905.53" cy="180.88" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   196 -->
+<ellipse cx="983.09" cy="557.47" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   197 -->
+<ellipse cx="265.16" cy="250.91" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   198 -->
+<ellipse cx="1143.43" cy="299.70" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   199 -->
+<ellipse cx="271.49" cy="113.99" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   200 -->
+<ellipse cx="96.40" cy="331.72" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   201 -->
+<ellipse cx="354.68" cy="875.38" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   202 -->
+<ellipse cx="893.39" cy="417.45" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   203 -->
+<ellipse cx="857.09" cy="165.19" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   204 -->
+<ellipse cx="602.49" cy="86.82" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   205 -->
+<ellipse cx="348.09" cy="184.31" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   206 -->
+<ellipse cx="456.81" cy="513.02" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   207 -->
+<ellipse cx="962.64" cy="58.12" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   208 -->
+<ellipse cx="1591.00" cy="279.18" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   209 -->
+<ellipse cx="953.04" cy="535.01" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   210 -->
+<ellipse cx="852.29" cy="868.12" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   211 -->
+<ellipse cx="453.84" cy="418.58" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   212 -->
+<ellipse cx="538.30" cy="432.84" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   213 -->
+<ellipse cx="716.43" cy="310.56" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   214 -->
+<ellipse cx="1693.30" cy="225.49" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   215 -->
+<ellipse cx="1325.53" cy="448.31" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   216 -->
+<ellipse cx="1039.11" cy="63.04" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   217 -->
+<ellipse cx="267.13" cy="435.28" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   218 -->
+<ellipse cx="1051.96" cy="79.14" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   219 -->
+<ellipse cx="376.77" cy="606.25" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   220 -->
+<ellipse cx="1703.15" cy="123.36" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   221 -->
+<ellipse cx="243.60" cy="241.50" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   222 -->
+<ellipse cx="1154.52" cy="285.92" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   223 -->
+<ellipse cx="1121.08" cy="263.81" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   224 -->
+<ellipse cx="645.07" cy="250.48" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   225 -->
+<ellipse cx="218.72" cy="228.94" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   226 -->
+<ellipse cx="647.17" cy="806.13" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   227 -->
+<ellipse cx="1178.11" cy="170.64" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   228 -->
+<ellipse cx="475.50" cy="588.50" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   229 -->
+<ellipse cx="612.80" cy="211.46" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   230 -->
+<ellipse cx="1388.27" cy="356.52" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   231 -->
+<ellipse cx="1166.50" cy="438.27" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   232 -->
+<ellipse cx="1678.94" cy="293.17" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   233 -->
+<ellipse cx="1345.18" cy="371.54" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   234 -->
+<ellipse cx="880.27" cy="149.52" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   235 -->
+<ellipse cx="881.06" cy="124.66" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   236 -->
+<ellipse cx="283.71" cy="297.78" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   237 -->
+<ellipse cx="1112.87" cy="443.05" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   238 -->
+<ellipse cx="938.23" cy="68.38" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   239 -->
+<ellipse cx="1594.42" cy="250.10" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   240 -->
+<ellipse cx="1527.40" cy="157.72" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   241 -->
+<ellipse cx="1023.61" cy="303.04" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   242 -->
+<ellipse cx="1745.74" cy="134.77" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   243 -->
+<ellipse cx="595.91" cy="310.99" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   244 -->
+<ellipse cx="1146.58" cy="462.91" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   245 -->
+<ellipse cx="1805.01" cy="387.54" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   246 -->
+<ellipse cx="638.05" cy="271.85" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   247 -->
+<ellipse cx="245.47" cy="115.00" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   248 -->
+<ellipse cx="983.51" cy="559.92" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   249 -->
+<ellipse cx="1126.34" cy="662.27" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   250 -->
+<ellipse cx="624.41" cy="328.12" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   251 -->
+<ellipse cx="1009.09" cy="106.78" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   252 -->
+<ellipse cx="1577.48" cy="106.23" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   253 -->
+<ellipse cx="1543.92" cy="52.15" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   254 -->
+<ellipse cx="1126.05" cy="415.33" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   255 -->
+<ellipse cx="100.83" cy="279.67" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   256 -->
+<ellipse cx="618.71" cy="295.07" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   257 -->
+<ellipse cx="297.47" cy="215.57" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   258 -->
+<ellipse cx="1016.12" cy="53.87" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   259 -->
+<ellipse cx="1592.74" cy="297.59" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   260 -->
+<ellipse cx="1379.99" cy="302.30" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   261 -->
+<ellipse cx="1157.67" cy="451.68" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   262 -->
+<ellipse cx="581.73" cy="211.47" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   263 -->
+<ellipse cx="573.19" cy="783.95" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   264 -->
+<ellipse cx="468.14" cy="227.73" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   265 -->
+<ellipse cx="104.61" cy="262.78" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   266 -->
+<ellipse cx="1703.19" cy="265.00" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   267 -->
+<ellipse cx="1156.87" cy="419.21" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   268 -->
+<ellipse cx="183.01" cy="278.20" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   269 -->
+<ellipse cx="416.69" cy="812.68" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   270 -->
+<ellipse cx="314.03" cy="311.54" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   271 -->
+<ellipse cx="594.88" cy="509.16" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   272 -->
+<ellipse cx="1066.89" cy="279.37" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   273 -->
+<ellipse cx="1651.44" cy="288.69" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   274 -->
+<ellipse cx="454.30" cy="364.20" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   275 -->
+<ellipse cx="626.70" cy="241.65" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   276 -->
+<ellipse cx="555.19" cy="161.23" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   277 -->
+<ellipse cx="380.16" cy="693.39" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   278 -->
+<ellipse cx="1357.20" cy="446.42" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   279 -->
+<ellipse cx="479.09" cy="788.69" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   280 -->
+<ellipse cx="433.29" cy="695.34" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   281 -->
+<ellipse cx="1090.85" cy="264.35" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   282 -->
+<ellipse cx="1037.21" cy="95.49" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   283 -->
+<ellipse cx="354.69" cy="602.01" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   284 -->
+<ellipse cx="393.96" cy="438.24" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   285 -->
+<ellipse cx="408.46" cy="396.45" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   286 -->
+<ellipse cx="452.63" cy="317.23" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   287 -->
+<ellipse cx="415.64" cy="311.14" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   288 -->
+<ellipse cx="378.91" cy="431.04" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   289 -->
+<ellipse cx="598.88" cy="183.14" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   290 -->
+<ellipse cx="751.85" cy="866.52" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   291 -->
+<ellipse cx="517.29" cy="929.43" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   292 -->
+<ellipse cx="1450.29" cy="807.73" rx="10.00" ry="10.00" style="fill:rgb(63,63,63);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   293 -->
+<ellipse cx="1831.60" cy="353.63" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   294 -->
+<ellipse cx="1680.83" cy="199.50" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   295 -->
+<ellipse cx="1168.94" cy="573.56" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   296 -->
+<ellipse cx="1686.70" cy="325.36" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   297 -->
+<ellipse cx="916.22" cy="153.64" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   298 -->
+<ellipse cx="951.84" cy="92.61" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   299 -->
+<ellipse cx="1722.70" cy="120.26" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   300 -->
+<ellipse cx="1614.30" cy="264.79" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   301 -->
+<ellipse cx="822.78" cy="834.89" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   302 -->
+<ellipse cx="552.82" cy="187.19" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   303 -->
+<ellipse cx="1800.54" cy="187.24" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   304 -->
+<ellipse cx="1057.58" cy="352.71" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   305 -->
+<ellipse cx="1424.23" cy="723.93" rx="10.00" ry="10.00" style="fill:rgb(63,63,63);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   306 -->
+<ellipse cx="1142.89" cy="322.04" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   307 -->
+<ellipse cx="1079.85" cy="331.10" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   308 -->
+<ellipse cx="1304.89" cy="217.42" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   309 -->
+<ellipse cx="111.10" cy="246.69" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   310 -->
+<ellipse cx="1380.86" cy="380.73" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   311 -->
+<ellipse cx="96.73" cy="296.44" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   312 -->
+<ellipse cx="98.32" cy="313.97" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   313 -->
+<ellipse cx="1679.95" cy="267.12" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   314 -->
+<ellipse cx="1800.60" cy="236.94" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   315 -->
+<ellipse cx="1360.94" cy="344.44" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   316 -->
+<ellipse cx="1767.70" cy="330.72" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   317 -->
+<ellipse cx="187.27" cy="297.44" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   318 -->
+<ellipse cx="1603.96" cy="192.10" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   319 -->
+<ellipse cx="442.57" cy="300.04" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   320 -->
+<ellipse cx="285.49" cy="206.43" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   321 -->
+<ellipse cx="136.70" cy="399.32" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   322 -->
+<ellipse cx="455.58" cy="340.40" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   323 -->
+<ellipse cx="277.62" cy="340.10" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   324 -->
+<ellipse cx="1176.01" cy="383.95" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   325 -->
+<ellipse cx="1608.38" cy="308.20" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   326 -->
+<ellipse cx="643.14" cy="893.04" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   327 -->
+<ellipse cx="1050.96" cy="454.76" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   328 -->
+<ellipse cx="1804.12" cy="212.17" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   329 -->
+<ellipse cx="1116.52" cy="388.75" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   330 -->
+<ellipse cx="211.47" cy="205.38" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   331 -->
+<ellipse cx="1611.13" cy="168.34" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   332 -->
+<ellipse cx="1104.95" cy="260.06" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   333 -->
+<ellipse cx="1082.63" cy="479.71" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   334 -->
+<ellipse cx="1019.84" cy="258.99" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   335 -->
+<ellipse cx="982.75" cy="76.77" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   336 -->
+<ellipse cx="1769.12" cy="134.57" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   337 -->
+<ellipse cx="1761.11" cy="161.49" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   338 -->
+<ellipse cx="1016.00" cy="78.73" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   339 -->
+<ellipse cx="233.69" cy="117.87" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   340 -->
+<ellipse cx="979.23" cy="111.48" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   341 -->
+<ellipse cx="1050.94" cy="690.88" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   342 -->
+<ellipse cx="1060.42" cy="491.79" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   343 -->
+<ellipse cx="633.94" cy="311.35" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   344 -->
+<ellipse cx="229.12" cy="261.11" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   345 -->
+<ellipse cx="1725.81" cy="142.09" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   346 -->
+<ellipse cx="488.13" cy="990.85" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   347 -->
+<ellipse cx="212.83" cy="358.92" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   348 -->
+<ellipse cx="1700.56" cy="245.26" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   349 -->
+<ellipse cx="409.32" cy="333.58" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   350 -->
+<ellipse cx="1634.75" cy="313.55" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   351 -->
+<ellipse cx="919.12" cy="84.27" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   352 -->
+<ellipse cx="104.60" cy="366.22" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   353 -->
+<ellipse cx="222.79" cy="377.94" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   354 -->
+<ellipse cx="1134.40" cy="281.35" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   355 -->
+<ellipse cx="1714.11" cy="290.42" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   356 -->
+<ellipse cx="1706.14" cy="304.24" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   357 -->
+<ellipse cx="1718.82" cy="383.04" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   358 -->
+<ellipse cx="1737.60" cy="373.22" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   359 -->
+<ellipse cx="520.68" cy="574.37" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   360 -->
+<ellipse cx="788.80" cy="725.97" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   361 -->
+<ellipse cx="1020.37" cy="347.54" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   362 -->
+<ellipse cx="227.57" cy="313.33" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   363 -->
+<ellipse cx="553.30" cy="219.77" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   364 -->
+<ellipse cx="339.35" cy="324.85" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   365 -->
+<ellipse cx="383.43" cy="394.46" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   366 -->
+<ellipse cx="419.93" cy="293.67" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   367 -->
+<ellipse cx="432.78" cy="286.51" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   368 -->
+<ellipse cx="407.52" cy="465.02" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   369 -->
+<ellipse cx="371.37" cy="336.58" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   370 -->
+<ellipse cx="471.87" cy="434.31" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   371 -->
+<ellipse cx="142.17" cy="414.97" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   372 -->
+<ellipse cx="728.86" cy="832.66" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   373 -->
+<ellipse cx="409.65" cy="845.34" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   374 -->
+<ellipse cx="508.54" cy="903.28" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   375 -->
+<ellipse cx="186.27" cy="52.56" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   376 -->
+<ellipse cx="1021.96" cy="322.19" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   377 -->
+<ellipse cx="168.21" cy="148.34" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   378 -->
+<ellipse cx="1321.67" cy="211.67" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   379 -->
+<ellipse cx="1122.24" cy="771.27" rx="10.00" ry="10.00" style="fill:rgb(63,63,63);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   380 -->
+<ellipse cx="256.02" cy="196.00" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   381 -->
+<ellipse cx="257.02" cy="219.29" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   382 -->
+<ellipse cx="1140.57" cy="437.02" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   383 -->
+<ellipse cx="990.85" cy="52.56" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   384 -->
+<ellipse cx="128.08" cy="86.84" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   385 -->
+<ellipse cx="1006.17" cy="319.13" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   386 -->
+<ellipse cx="920.33" cy="495.80" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   387 -->
+<ellipse cx="1618.67" cy="330.92" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   388 -->
+<ellipse cx="119.01" cy="376.33" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   389 -->
+<ellipse cx="518.00" cy="813.81" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   390 -->
+<ellipse cx="623.13" cy="920.60" rx="10.00" ry="10.00" style="fill:rgb(96,109,196);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   391 -->
+<ellipse cx="1782.80" cy="225.22" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   392 -->
+<ellipse cx="1786.23" cy="164.06" rx="10.00" ry="10.00" style="fill:rgb(229,229,229);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   393 -->
+<ellipse cx="184.97" cy="258.06" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   394 -->
+<ellipse cx="492.21" cy="294.24" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   395 -->
+<ellipse cx="1097.17" cy="418.66" rx="10.00" ry="10.00" style="fill:rgb(89,221,255);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   396 -->
+<ellipse cx="336.85" cy="593.84" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   397 -->
+<ellipse cx="426.38" cy="626.72" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   398 -->
+<ellipse cx="406.30" cy="603.31" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   399 -->
+<ellipse cx="484.07" cy="678.61" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+<!-- Vertex:   400 -->
+<ellipse cx="473.26" cy="405.94" rx="10.00" ry="10.00" style="fill:rgb(0,153,0);stroke:rgb(127,127,127);stroke-width:0.50;"/>
+</g>         <!-- Layer Network -->
+</svg>

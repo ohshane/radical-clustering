@@ -1,0 +1,11 @@
+Number of clusters
+1301
+
+Average size of clusters
+68.29362029208302
+
+Average size of clusters (80%) (10-80-10)
+53.239815526518065
+
+Max/min size of clusters
+205 1

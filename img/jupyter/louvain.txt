@@ -1,0 +1,14 @@
+Number of clusters
+77
+
+Average size of clusters
+1153.8961038961038
+
+Average size of clusters (80%) (10-80-10)
+548.1948051948052
+
+Max/min size of clusters
+15975 4
+
+modularity
+0.3998
